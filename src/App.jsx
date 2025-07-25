@@ -1,4 +1,4 @@
-import Service from './components/Service/service.jsx'
+import Service from './components/Service/service.jsx';
 import './App.css'
 import './index.css'
 import Counter from './components/Counter/Counter.jsx';
