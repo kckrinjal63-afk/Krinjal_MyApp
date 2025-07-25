@@ -1,0 +1,26 @@
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: blueviolet;
+padding: 10px 40px;
+color: rgb(0, 255, 242);
+}
+
+
+.navbar-list {
+display:flex;
+gap: 30px;
+font-weight :600;
+font-size: 20px;
+gap: 100px; 
+
+}
+.navbar-list a {
+text-decoration: none;
+color:white;
+}
+
+.navBar button {
+    border: rgb(0, 128, 100);
+}
